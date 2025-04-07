@@ -7,3 +7,9 @@
 # OS SEUS DADOS NA MEMÓRIA.
 
 print("É isso, mundo!")
+
+def soma_dois(x, y):
+  b = x+y
+  return b
+
+print(soma_dois)
